@@ -5,7 +5,9 @@ Bom dia, nesta agenda venho apresentar o AGC o melhor contador de água ja criad
 ela funciona de forma simples usando codigo pyton para realizar calculos simples seguindo 3 passos.
 
 1- colocar se é comercial, casa ou apartamento.
+
 2- inserir a média de consumo em metros cubicos.
+
 3- olhar se vc esta consumindo demais ou na média ou abaixo.
 
 prints do funcionamento do código para fins de estudo
